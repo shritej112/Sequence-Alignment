@@ -1,0 +1,4 @@
+CCATT
+2
+CATGT
+3
